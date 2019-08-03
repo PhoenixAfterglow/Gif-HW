@@ -1,4 +1,5 @@
 /* GifTastic by Johnny Maravelis */
+/* Note: Colors used are "film accurate" from Star Trek: The Next Generation */
 
 body {
 	background: #8fc7e0;
@@ -33,7 +34,8 @@ small {
 }
 
 .trek-button:hover, .trek-button:active {
-	background: #ff9900;
+    background: #d6a444;
+    /* Also tried ff9900 */
 	color: #fff;
 }
 
