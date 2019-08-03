@@ -89,3 +89,11 @@ small {
 	box-shadow:         10px 10px 0px 0px rgba(0, 0, 0, 0.4);
 }
 
+/* Rating font styling */
+p {
+	font-size: 13px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin: 0 0 6px 4px;
+}
