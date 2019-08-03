@@ -21,3 +21,17 @@ small {
 }
 
 /* button should be #f3b771 */
+
+.trek-button {
+	font-size: 14px;
+	background: #f3b771;
+	border: none;
+	padding: 10px 15px;
+	margin: 6px;
+	border-radius: 10px;
+}
+
+.trek-button:hover, .trek-button:active {
+	background: #ff9900;
+	color: #fff;
+}
