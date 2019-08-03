@@ -11,8 +11,13 @@
 
 // VARIABLES
 let topics = [
-	"captain jean luc picard", "commander william t. ryker", "commander data", "worf", "geordi la forge", "beverly crusher", "deanna troi" 
+	"captain jean luc picard", "commander data", "worf", "geordi la forge", "beverly crusher", "deanna troi", "guinan"
 ];
+
+// List of Gif results that weren't working for "topics" array:
+// "commander william t. ryker",
+
+
 
 // FOR LOOP FOR BUTTONS
 for(var i = 0; i < topics.length; i++) {
