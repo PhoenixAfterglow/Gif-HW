@@ -11,7 +11,7 @@
 
 // VARIABLES
 let topics = [
-	"captain jean luc picard", "commander data", "worf", "geordi la forge", "beverly crusher", "deanna troi", "guinan"
+	"captain jean luc picard", "commander data", "worf", "geordi la forge", "beverly crusher", "deanna troi", "chief o'brien", "guinan"
 ];
 
 // List of Gif results that weren't working for "topics" array:
